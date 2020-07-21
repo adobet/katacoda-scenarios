@@ -31,6 +31,11 @@
       "title": "Bilan",
       "description": "Faire un bilan sur les notions abordées dans ce cours",
       "course_id": "bilan"
+    },
+    {
+      "title": "Scenario vide pour test",
+      "description": "test",
+      "course_id": "scenario_vide"
     }
   ]
 }
