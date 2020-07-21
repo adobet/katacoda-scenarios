@@ -1,0 +1,22 @@
+{
+  "title": "M1101 - Focus sur les processus",
+  "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
+  "courses": [
+    {
+      "title": "Gestion des paquets",
+      "description": "Apprendre à installer un programme",
+      "course_id": "gestion_paquets"
+    },
+   {
+      "title": "Les processus",
+      "description": "Pour découvrir ce qu'est un processus",
+      "course_id": "processus"
+    },
+    {
+      "title": "brouillon",
+      "description": "à vider ?",
+      "course_id": "administration_paquets"
+    }
+  ]
+  ]
+}

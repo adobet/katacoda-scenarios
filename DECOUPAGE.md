@@ -15,8 +15,9 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre :
 * Se repérer et se déplacer (cd et ls sans option + ..)
 * La commande cat et TAB (surtout pour manipuler ls, cd et cat)
 * les chemins - Dans ce scénario, j'ai 'cassé' la commande cd. On manipule donc que ls et cat
+* commande, arguments et options 
+* les chemins suite - avec la commande cd, la commande tree, et le dossier `.` 
 
-* commande, arguments et options -> à relire
 
 ## cours 2 - les bases
 

@@ -1,6 +1,11 @@
 {
   "title": "M1101 - Cours n°09 - TODO",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
-  "courses": [
+  "courses": [   
+  {
+      "title": "Bash et python",
+      "description": "Bash et python",
+      "course_id": "bash_python"
+    }    
   ]
 }

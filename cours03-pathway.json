@@ -2,11 +2,15 @@
   "title": "M1101 - Cours n°3 - Administrer son sytème",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
-
     {
-      "title": "Droits - épisode 4\nLes Inode",
-      "description": " ...",
-      "course_id": "inodes"
+      "title": "Droits - épisode 1\nDroits des fichiers",
+      "description": "Introduction aux droits des fichiers",
+      "course_id": "droits_fichiers"
+    },
+    {
+      "title": "Le man",
+      "description": "Familiarisation avec le man",
+      "course_id": "introduction_man"
     }
   ]
 }

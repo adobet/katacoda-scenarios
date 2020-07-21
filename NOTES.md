@@ -5,11 +5,12 @@ J'ai mis là dedans quelques repertoires qui contiennent à chaque fois :
 * une archive
 * `code.sh` et `courseBase.sh`
 
-J'avais dans l'idée de remplacer les `home.tar.bz2` par des liens physique vers l'une de ces archives.
-Mais ce n'est surement pas une bonne idée ...
-
 **Pourquoi ?** parce que je voudrais que les étudiants explorent l'environnement, et pour cela il faudrait qu'il soit rempli de choses à découvrir.
-Plus il sera riche, et plus il y a des chances qu'ils explorent.
+Plus il sera riche, et plus il y a des chances qu'ils explorent. Mais remplir, ça prend du temps ...
+
+
+J'avais dans l'idée de remplacer les `home.tar.bz2` par des liens physiques vers l'une de ces archives.
+Mais ce n'est surement pas une bonne idée ...
 
 
 # Remarque sur les verify

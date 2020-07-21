@@ -2,10 +2,10 @@
   "title": "M1101 - Cours n°5 - Des notions plus avancées",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
-    {
-      "title": "Bash et python",
-      "description": "Bash et python",
-      "course_id": "bash_python"
-    }
+{
+      "title": "Droits - épisode 2\nDroits des dossiers ",
+      "description": "Introduction aux droits des dossiers",
+      "course_id": "droits_dossiers"
+    },
   ]
 }
