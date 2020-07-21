@@ -31,8 +31,8 @@ Si par exemple, tu veux afficher le contenu du fichier systeme, il suffit de tap
 
 Essaye !
 
->> Qu'y a-t-il dans le fichier photo ? <<
+>> Quel est le contenu du fichier photo ? <<
 (*) rien qu'une image idiote
 ( ) ce fichier est illisible
 ( ) une photo de sasha
-
+( ) rien : le fichier est vide

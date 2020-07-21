@@ -28,9 +28,9 @@
       "course_id": "commande_options_arguments"
     },
     {
-      "title": "Bilan",
-      "description": "Faire un bilan sur les notions abordées dans ce cours",
-      "course_id": "bilan"
+      "title": "Bref retour sur les chemins",
+      "description": "Compléter la notion de chemin avec le dossier '.'",
+      "course_id": "chemins_suite"
     }
   ]
 }
