@@ -1,6 +1,6 @@
 # La commande ls avec chemin relatif
 
-Et maintenant, comment lister le contenu du dossier math ?
+Et maintenant, comment lister le contenu du dossier urgent ?
 
 ```
 /
@@ -8,18 +8,15 @@ Et maintenant, comment lister le contenu du dossier math ?
 ├── dev
 ├── etc
 ├── home
-│   ├── ariel
-│   ├── packer
-│   ├── sasha  
-│   │   ├── Desktop <------------- tu es  ICI !
+│   ├── sasha  <----------- tu es  ICI !
+│   │   ├── Desktop 
 │   │   │    ├── clef
 │   │   │    │    ├── iut
-│   │   │    │    └── series 
+│   │   │    │    └── series
 │   │   │    └── urgent
-│   │   │         └── maths
+│   │   │        └── maths
 │   │   ├── Perso
 │   │   └── Travail 
-│   ├── olympe
 │   └── willow
 └── usr
     ├── bin
@@ -29,7 +26,7 @@ Et maintenant, comment lister le contenu du dossier math ?
 
 C'est très simple : il suffit d'indiquer à la commande `ls` le chemin vers le dossier que tu veux lister.
 
-La commande `ls urgent/math`{{execute}} permet de liste le contenu du dossier math à distance.
+La commande `ls Desktop/urgent/maths`{{execute}} permet de liste le contenu du dossier maths à distance.
 
 Essaye !
 

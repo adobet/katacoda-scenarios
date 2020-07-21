@@ -8,10 +8,8 @@ La commande `cat` peut également être utilisée avec un chemin relatif.
 ├── dev
 ├── etc
 ├── home
-│   ├── ariel
-│   ├── packer
-│   ├── sasha  
-│   │   ├── Desktop <------------- tu es  ICI !
+│   ├── sasha  <----------- tu es  ICI !
+│   │   ├── Desktop 
 │   │   │    ├── clef
 │   │   │    │    ├── iut
 │   │   │    │    │    ├── dossier_inscription
@@ -22,15 +20,14 @@ La commande `cat` peut également être utilisée avec un chemin relatif.
 │   │   │         └── systeme 
 │   │   ├── Perso
 │   │   └── Travail 
-│   ├── olympe
 │   └── willow
 └── usr
 ``` 
 
 
-Tu es toujours dans le dossier Desktop.
+Tu es toujours dans *ton home*.
 
-Si par exemple, tu veux afficher le contenu du fichier systeme, il suffit de taper `cat urgent/systeme`{{execute}}
+Si par exemple, tu veux afficher le contenu du fichier systeme, il suffit de taper `cat Desktop/urgent/systeme`{{execute}}
 
 Essaye !
 

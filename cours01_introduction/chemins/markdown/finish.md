@@ -9,4 +9,4 @@ On passe à la suite ?
 
 ## Prochain scénario conseillé
 
-* chemins absolus et chemins relatifs
+* commandes, options et arguments

@@ -1,5 +1,6 @@
-# TODO
+# la commande cat avec un chemin absolu
 
+Très bien !!
 
 
 ```
@@ -9,9 +10,10 @@
 ├── etc
 ├── home
 │   ├── ariel
+│   │   └── liste_de_courses 
 │   ├── packer
-│   ├── sasha  
-│   │   ├── Desktop <------------- tu es  ICI !
+│   ├── sasha  <------------- tu es  ICI !
+│   │   ├── Desktop 
 │   │   │    ├── clef
 │   │   │    │    ├── iut
 │   │   │    │    │    ├── dossier_inscription
@@ -19,7 +21,8 @@
 │   │   │    │    └── series 
 │   │   │    └── urgent
 │   │   │         ├── anglais
-│   │   │         └── systeme 
+│   │   │         └── maths 
+│   │   │              └── calculatrice 
 │   │   ├── Perso
 │   │   └── Travail 
 │   ├── olympe
@@ -27,48 +30,15 @@
 └── usr
 ``` 
 
+Tu peux également utiliser un chemin absolu comme argument à la commande `cat`
+
+Par exemple, pour afficher le contenu du fichier `calculatrice` que tu vois dans l'arborescence, tu peux :
+* utiliser un chemin relatif : `cat Desktop/urgent/maths/calculatrice`
+* ou utiliser un chemin absolu : `cat /home/sasha/Desktop/urgent/maths/calculatrice`
 
 
-
-
-```
-/
-├── bin
-├── dev
-├── etc
-│   ├── calendar
-│   ├── dconf
-│   │   ├── db
-│   │   └── profile
-│   ├── emacs
-│   └── snd
-├── home
-│   ├── ariel
-│   ├── packer
-│   ├── sasha  <------------- tu es  ICI !
-│   │   ├── Desktop
-│   │   ├── Perso
-│   │   │   └── Images
-│   │   │       ├── photos
-│   │   │       └── vacances
-│   │   └── Travail
-│   │       ├── BD
-│   │       │   ├── cours
-│   │       │   ├── TD
-│   │       │   └── TP
-│   │       └── InitSystem
-│   │           ├── Exo1
-│   │           │   ├── Question1
-│   │           │   ├── Question2
-│   │           │   └── Reponses
-│   │           ├── Exo2
-│   │           │   ├── Question3
-│   │           │   └── Reponses
-│   │           └── Notes
-│   ├── olympe
-│   └── willow
-└── usr
-    ├── bin
-    ├── games
-    └── share
-``` 
+>> Comment ferais-tu pour afficher le contenu du fichier liste_de_course (dans le home de ariel) en utilisant un chemin absolu ? <<
+( ) cat /../ariel/liste_de_courses
+( ) cat ../ariel/liste_de_courses
+( ) cat home/ariel/liste_de_courses
+(*) cat /home/ariel/liste_de_courses
