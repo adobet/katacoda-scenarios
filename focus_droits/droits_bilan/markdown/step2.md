@@ -1,24 +1,27 @@
-# Droits en hexa
-
-Remarque que les droits d'un fichier bien qu'écrits sous la forme `rwxr-xr--` pourraient être écrits comme : `111101100` en remplaçant les lettres par des 1 et les - par des 0. On a alors un nombre écrit en binaire.
-
-Comme ce n'est pas très lisible, on va l'écrire en octal : on va reprendre chaque groupe de 3 bits et écrire le chiffre correspondant.
-Par exemple : `111 101 100` s'écrit `754`, puisque `111` est 7 en binaire, `101` est 5 et ̀`100` est 4 !
+# Exercice 2
 
 
->> Comment s'écrit `111000101` en octal ? <<
-(*) 705
-( ) 765
-( ) 503
-( ) 703
+>> Quelle commande permet de supprimer les droits de lecture à mon home aux autres et au groupe ?<<
+(*) chmod og-r ~
+( ) chmod g+r ~
+( ) chmod a+x ~
+( ) chmod og-rw ~
 
->> Comment s'écrit `110110110` en octal ? <<
-=== 666
 
->> Comment est encodé en octal  rw-r--r-- ? <<
-( ) 422
-(*) 644
-( ) 666
+>> Quelle commande permet d'ajouter les droits de lecture à mon home au groupe ?<<
+( ) chmod og-r ~
+(*) chmod g+r ~
+( ) chmod a+x ~
+( ) chmod og-rw ~
 
->> Comment encoder les droits rw-rw-r-- en octal ? <<
-=== 664
+>> Quelle commande permet d'ajouter les droits d'execution à mon home à tout le monde ?<<
+( ) chmod og-r ~
+( ) chmod g+r ~
+(*) chmod a+x ~
+( ) chmod og-rw ~
+
+>> Quelle commande permet de supprimer les droits d'écriture et de lecture lecture à mon home aux autres et au groupe ?<<
+( ) chmod og-r ~
+( ) chmod g+r ~
+( ) chmod a+x ~
+(*) chmod og-rw ~

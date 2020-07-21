@@ -8,7 +8,7 @@ Mais n'allons pas trop vite et commençons par le début.
 Si tu tapes `ls -l` alors que tu es dans *ton home*, tu dois voir apparaitre quelque chose comme :
 
 ```
-drwxrwxr-x 2 sasha etu 4096 juil. 16 13:31 Bureau
+dr--r--x-- 2 sasha etu 4096 juil. 16 13:31 Bureau
 drwxrwxr-x 2 sasha etu 4096 juil. 16 13:31 Documents
 ---------- 1 sasha etu   31 juil. 16 13:35 exemple1
 -rw-rw-r-- 1 sasha etu   31 juil. 16 13:34 exemple2
@@ -16,13 +16,13 @@ d--x--x--x 2 sasha etu 4096 juil. 16 13:35 exemple3
 -rw-rw-r-- 1 sasha etu   31 juil. 16 13:34 exemple4
 ```
 
-Examinons avec attention la première ligne : `drwxrwxr-x 2 sasha etu 4096 juil. 16 13:31 Bureau`
+Examinons avec attention la deuxième ligne : `drwxrwxr-x 2 sasha etu 4096 juil. 16 13:31 Documents`
 
-Tu as remarqué le `d` qui est au début de la ligne ? Cela signifie que `Bureau` est un dossier.
+Tu as remarqué le `d` qui est au début de la ligne ? Cela signifie que `Documents` est un dossier.
 
-Pour le reste, normalement, tu sais déjà lire les autres informations.
+Normalement, tu sais déjà lire le reste des autres informations.
 
->> Concernant le dossier Bureau <<
+>> Concernant le dossier Documents <<
 [*] a pour propriétaire sasha
 [ ] a pour propriétaire etu
 [ ] a été créé le 16 juillet
@@ -30,7 +30,7 @@ Pour le reste, normalement, tu sais déjà lire les autres informations.
 [*] sasha a les droits d'écriture sur ce dossier
 [ ] ariel (qui n'est pas dans le groupe etu) a les droits d'écriture sur ce dossier
 
->> Documents <<
+>> Bureau <<
 (*) est un dossier
 ( ) est un fichier
 

@@ -10,8 +10,7 @@
       },
       {
         "title": "La commande chmod",
-        "text": "/markdown/step2.md",
-        "verify": "verify-step2.sh"
+        "text": "/markdown/step2.md"
       },
       {
         "title": "La commande chmod (mode avancé)",

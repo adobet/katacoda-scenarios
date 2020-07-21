@@ -2,16 +2,16 @@ Il est temps de parler des droits !
 
 
 ```
--rw-r----- 1 sasha  etu    495 juil. 15 14:27 fichier1.txt
--rw-rw-r-- 1 sasha  etu    265 juil. 15 14:59 fichier2.txt
--r--r--r-- 1 sasha  etu    406 juil. 15 14:31 fichier3.txt
----------- 1 sasha  sasha  520 juil. 15 14:35 fichier4.txt
--rw-r----- 1 sasha  etu    468 juil. 15 14:37 fichier5.txt
--rw------- 1 sasha  etu    485 juil. 15 14:42 fichier6.txt
--rw-r--r-- 1 willow etu    512 juil. 15 14:48 fichier7.txt
--rw-rw---- 1 ariel  prof   682 juil. 15 14:50 fichier8.txt
--rw-rw-rw- 1 sasha  etu    796 juil. 15 14:59 fichier9.txt
--rwxrwxr-x 1 sasha  etu     26 juil. 15 11:07 script.sh
+-rw-r----- 1 sasha  etu    495 juil. 16 08:52 fichier1.txt
+-rw-rw-r-- 1 sasha  etu    265 juil. 16 14:59 fichier2.txt
+-rw-rw-r-- 1 sasha  etu    406 juil. 16 14:31 fichier3.txt
+---------- 1 sasha  sasha  520 juil. 16 14:35 fichier4.txt
+-rw-r----- 1 sasha  etu    468 juil. 16 14:37 fichier5.txt
+-rw------- 1 sasha  etu    485 juil. 16 14:42 fichier6.txt
+-rw-r--r-- 1 willow etu    512 juil. 16 14:48 fichier7.txt
+-rw-rw---- 1 ariel  prof   682 juil. 16 14:50 fichier8.txt
+-rw-rw-rw- 1 sasha  etu    796 juil. 16 14:59 fichier9.txt
+-rwxrwxr-x 1 sasha  etu     26 juil. 16 11:07 script.sh
 ```
 
 Je continue l'analyse de la première ligne :

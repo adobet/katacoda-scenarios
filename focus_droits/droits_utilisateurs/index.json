@@ -1,7 +1,7 @@
 {
-  "title": "Bilan sur les droits",
-  "difficulty": "Beginner",
-  "time": "30 minutes",
+  "title": "Droits des utilisateurs",
+  "difficulty": "Débutant",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
@@ -17,19 +17,28 @@
         "text": "/markdown/step3.md"
       },
       {
-        "title": "",
         "text": "/markdown/step4.md"
       },
       {
-        "title": "Conclusion",
         "text": "/markdown/step5.md"
-
+      },
+      {
+        "text": "/markdown/step6.md"
+      },
+      {
+        "text": "/markdown/step7.md"
+      },
+      {
+        "text": "/markdown/step8.md"
+      },
+      {
+        "text": "/markdown/step9.md"
       }
     ],
     "intro": {
-        "courseData": "courseBase.sh",
+        "courseData": "/assets/courseBase.sh",
         "text": "/markdown/intro.md",
-        "code": "code.sh"
+        "code": "/assets/code.sh"
     },
     "finish": {
       "text": "/markdown/finish.md"
@@ -50,7 +59,7 @@
   "environment": {
     "uilayout": "terminal",
     "uimessage1": "Bienvenue !",
-    "uieditorpath": "/home/etudiant/"
+    "uieditorpath": "/home/sasha/"
   },
   "backend": {
     "imageid": "ubuntu"

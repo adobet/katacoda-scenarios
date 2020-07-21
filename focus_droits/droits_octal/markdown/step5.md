@@ -6,7 +6,9 @@ Par exemple, pour donner les droits `rw-------` au fichier exemple1, tu peux tap
 
 Essaye !
 
-Pour passer à la suite, donne les droits
+# Exercice
+
+Donne les droits
 
 * `rwxrw-r--` au fichier exemple2
 
@@ -14,3 +16,5 @@ Pour passer à la suite, donne les droits
 
 * `rwx------` au fichier exemple4
 
+
+Quand ce sera fait, passe à la suite.

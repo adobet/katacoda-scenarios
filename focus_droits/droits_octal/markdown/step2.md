@@ -45,6 +45,9 @@ Avec quelques exemples, tu devrais comprendre plus facilement ;)
 
 Essaye !
 
-Pour passer à la suite, fais en sorte que le fichier `exemple2` ait les droits
+# Exercice
+
+Fais en sorte que le fichier `exemple2` ait les droits
 `rw-r-----`
 
+Quand ce sera fait, passe à la suite.

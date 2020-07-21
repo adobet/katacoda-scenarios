@@ -21,6 +21,11 @@
       "title": "Bilan sur les droits",
       "description": "Pour faire le point sur les droits",
       "course_id": "droits_bilan"
+    },
+    {
+      "title": "Droits des utilisateurs",
+      "description": "TODO",
+      "course_id": "droits_utilisateurs"
     }
   ]
 }
