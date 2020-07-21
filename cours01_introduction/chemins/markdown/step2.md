@@ -1,6 +1,6 @@
 # La commande ls avec argument
 
-Tu sais déjà que la commande `ls`, utilisée sans argument, permet de lister le contenu du dossier courant.
+Tu sais déjà que la commande `ls` utilisée sans argument permet de lister le contenu du dossier courant.
 
 Mais elle permet également de lister le contenu d'autres dossiers.
 
