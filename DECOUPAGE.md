@@ -35,6 +35,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre :
 * droits des fichiers - > à compléter
 * Le man 
 * commande cp
+* processus - introduction
 * la commande wc (sans pipeline)
 * joker ?
 
@@ -44,6 +45,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre :
 * Sorties (SS et SE) + redirections vers un fichier
 * la commande grep (sans pipeline)
 * regex (debut)
+* les variables
 
 ## cours 5
 * droits des dossiers - > à compléter

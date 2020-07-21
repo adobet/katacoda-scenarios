@@ -2,7 +2,7 @@
   "title": "M1101 - Focus sur les redirections ",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
-      {
+    {
       "title": "Statut Sortie",
       "description": "...",
       "course_id": "statut_sortie"

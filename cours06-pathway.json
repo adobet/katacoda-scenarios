@@ -3,9 +3,19 @@
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
     {
-      "title": "Droits - épisode 4\nLes Inode",
+      "title": "Les Inode",
       "description": " ...",
       "course_id": "inodes"
+    },
+    {
+      "title": "Les arguments d'un script",
+      "description": "Passer des arguments à un scipt",
+      "course_id": "arguments_script"
+    },
+    {
+      "title": "Pipelines",
+      "description": "Pour jouer au plombier",
+      "course_id": "pipelines"
     }
   ]
 }

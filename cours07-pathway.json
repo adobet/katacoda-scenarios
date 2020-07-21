@@ -7,5 +7,10 @@
       "description": "Gestion des paquets",
       "course_id": "gestion_paquets"
     },
+    {
+      "title": "Entrée standart ou argument ?",
+      "description": "...",
+      "course_id": "ES_ou_argument"
+    }
   ]
 }
