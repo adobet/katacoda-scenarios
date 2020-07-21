@@ -2,7 +2,7 @@
 
 Un proposition de découpage pour une avancée progressive.
 
-J'ai essayé pour chaque cours (sauf l'intro) de mettre :
+J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios
 * 1 manipulation de fichiers
 * 1 recherche/aide
 * 1 notion sur les droits
