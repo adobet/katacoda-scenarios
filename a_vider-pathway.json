@@ -1,0 +1,31 @@
+{
+  "title": "Scénario à découper/relire",
+  "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
+  "courses": [
+    {
+      "title": "manipulation fichiers",
+      "description": "à vider",
+      "course_id": "manipulation_fichiers"
+    },
+    {
+      "title": "manipulation plus",
+      "description": "à vider",
+      "course_id": "manipulation_plus"
+    },
+    {
+      "title": "admin paquets",
+      "description": "à vider ?",
+      "course_id": "administration_paquets"
+    }, 
+    {
+      "title": "regex",
+      "description": "à vider ?",
+      "course_id": "regexp-00"
+    }, 
+    {
+      "title": "redirections",
+      "description": "à décpuper",
+      "course_id": "redirections"
+    }
+  ]
+}

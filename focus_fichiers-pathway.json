@@ -36,16 +36,6 @@
       "title": "Les Inodes",
       "description": "Pour découvrir les Inodes",
       "course_id": "inodes"
-    },
-    {
-      "title": "brouillon 1",
-      "description": "à vider",
-      "course_id": "manipulation_fichiers"
-    },
-    {
-      "title": "brouillon 2",
-      "description": "à vider",
-      "course_id": "manipulation_plus"
     }
   ]
 }

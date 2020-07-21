@@ -11,11 +11,6 @@
       "title": "Les processus",
       "description": "Pour découvrir ce qu'est un processus",
       "course_id": "processus"
-    },
-    {
-      "title": "brouillon",
-      "description": "à vider ?",
-      "course_id": "administration_paquets"
     }
   ]
 }
