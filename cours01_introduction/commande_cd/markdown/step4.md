@@ -1,4 +1,4 @@
-# Se déplacer avec la commande `cd`
+# Se déplacer avec la commande cd
 
 Et comment on bouge ?
 
@@ -14,14 +14,7 @@ Dans le terminal, le prompt t'indique que tu es maintenant dans le répertoire `
 ```
 /
 ├── bin
-├── dev
 ├── etc
-│   ├── calendar
-│   ├── dconf
-│   │   ├── db
-│   │   └── profile
-│   ├── emacs
-│   └── snd
 ├── home
 │   ├── ariel
 │   ├── packer

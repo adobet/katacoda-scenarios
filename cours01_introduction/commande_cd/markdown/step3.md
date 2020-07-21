@@ -1,4 +1,4 @@
-# Se repérer avec la commande `ls`
+# Se repérer avec la commande ls
 
 C'est bien beau tout ça, mais dans le terminal, on ne voit pas grand chose !
 
@@ -19,14 +19,12 @@ Lance la ligne de commande `ls`{{execute}} puis réponds à la petite question :
 ```
 /
 ├── bin
-├── dev
 ├── etc
 │   ├── calendar
 │   ├── dconf
 │   │   ├── db
 │   │   └── profile
-│   ├── emacs
-│   └── snd
+│   └── emacs
 ├── home
 │   ├── ariel
 │   ├── packer

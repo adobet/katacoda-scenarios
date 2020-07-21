@@ -15,7 +15,6 @@ Je te précise le dossier dans lequel tu te trouves.
 ```
 /
 ├── bin
-├── dev
 ├── etc
 │   ├── calendar
 │   ├── dconf

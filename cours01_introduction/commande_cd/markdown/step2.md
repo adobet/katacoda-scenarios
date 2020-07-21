@@ -9,7 +9,6 @@ Il ne faut surtout pas confondre TON home (TA maison) avec le répertoire `/home
 ```
 /
 ├── bin
-├── dev
 ├── etc
 │   ├── calendar
 │   ├── dconf

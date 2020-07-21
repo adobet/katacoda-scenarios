@@ -1,18 +1,11 @@
-# Se déplacer avec la commande `cd`
+# Se déplacer avec la commande cd
 
-Bravo !
+Très bien ! Le prompt dois t'indiquer que tu es dans le répertoire `/home/sasha/Perso/Images`
 
 ```
 /
 ├── bin
-├── dev
 ├── etc
-│   ├── calendar
-│   ├── dconf
-│   │   ├── db
-│   │   └── profile
-│   ├── emacs
-│   └── snd
 ├── home
 │   ├── ariel
 │   ├── packer
@@ -48,14 +41,16 @@ Bravo !
 
 Maintenant, déplaces-toi dans le dossier `photos`.
 
-Le prompt t'indique maintenant que tu es dans le répertoire `/home/sasha/Perso/Images/photos`
+Le prompt dois t'indiquer que tu es dans le répertoire `/home/sasha/Perso/Images/photos`.
+
+Lorsque c'est le cas, répond au quizz :
 
 
 >> Combien y a-t il de fichiers dans le dossier photos ? <<
 ( ) il n'y en a pas
 ( ) 1 fichier
-( ) 2 fichiers
-(*) 3 fichiers ou plus
+(*) 2 fichiers
+( ) 3 fichiers ou plus
 
 
 

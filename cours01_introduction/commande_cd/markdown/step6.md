@@ -5,20 +5,7 @@ C'est très bien !
 ```
 /
 ├── bin
-├── dev
-│   ├── disk
-│   │   ├── by-id
-│   │   ├── by-path
-│   │   └── by-uuid
-│   ├── net
-│   └── snd
 ├── etc
-│   ├── calendar
-│   ├── dconf
-│   │   ├── db
-│   │   └── profile
-│   ├── emacs
-│   └── snd
 ├── home
 │   ├── ariel
 │   ├── packer
@@ -26,7 +13,7 @@ C'est très bien !
 │   │   ├── Desktop
 │   │   ├── Perso 
 │   │   │   └── Images 
-│   │   │       ├── photos <------------- maintenant tu es  ICI !
+│   │   │       ├── photos <--------- maintenant tu es  ICI !
 │   │   │       └── vacances
 │   │   └── Travail
 │   │       ├── BD
@@ -44,12 +31,7 @@ C'est très bien !
 │   │           └── Notes
 │   ├── olympe
 │   └── willow
-├── media
-│   └─── cdrom
 └── usr
-    ├── bin
-    ├── games
-    └── share
 ``` 
 
 Et maintenant ? Le dossier `photos` est un cul-de-sac. Comment sortir d'ici ?
