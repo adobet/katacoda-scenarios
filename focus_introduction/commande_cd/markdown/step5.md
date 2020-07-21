@@ -1,4 +1,4 @@
-# Se déplacer avec la commande cd
+# Se déplacer avec la commande `cd`
 
 Bravo !
 
