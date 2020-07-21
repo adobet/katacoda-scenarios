@@ -10,6 +10,8 @@ Et dans pas mal de scénarios, le fichier `home.tar.bz2` est un lien physique ve
 **Pourquoi ?** parce que je voudrais que les étudiants explorent l'environnement, et pour cela il faudrait qu'il soit rempli de choses à découvrir.
 Plus il sera riche, et plus il y a des chances qu'ils explorent.
 
+Mais ce n'est peut être pas une bonne idée ...
+
 # Remarque sur les verify
 Il semble que les verify dans les scénarios qui sont dans les cours ne fonctionnent pas.
 
