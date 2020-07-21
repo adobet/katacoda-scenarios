@@ -31,7 +31,7 @@ Il ne faut surtout pas confondre TON home (TA maison) avec le répertoire `/home
 │   │       │   ├── cours
 │   │       │   ├── TD
 │   │       │   └── TP
-│   │       └── InitSystem
+│   │       └── algo
 │   │           ├── Exo1
 │   │           │   ├── Question1
 │   │           │   ├── Question2
@@ -48,7 +48,7 @@ Il ne faut surtout pas confondre TON home (TA maison) avec le répertoire `/home
     └── share
 ``` 
 
-D'ailleurs, dans l'arborescence, tu peux voir d'autres maisons que la tienne : il y a celle d'ariel, de packer et de willow.
+D'ailleurs, dans l'arborescence, tu peux voir d'autres "maisons" que la tienne : il y a celle d'ariel, de packer et de willow.
 
 >> Mais quel est le nom de l'utilisateur que j'ai oublié ?<<
 ( ) buffy

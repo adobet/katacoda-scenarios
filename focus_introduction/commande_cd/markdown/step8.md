@@ -35,7 +35,7 @@ Maintenant, je veux que tu te déplaces dans le dossier `dev`
 │   │       │   ├── cours
 │   │       │   ├── TD
 │   │       │   └── TP
-│   │       └── InitSystem
+│   │       └── algo
 │   │           ├── Exo1
 │   │           │   ├── Question1
 │   │           │   ├── Question2

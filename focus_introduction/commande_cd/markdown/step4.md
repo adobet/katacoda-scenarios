@@ -36,7 +36,7 @@ Dans le terminal, le prompt t'indique que tu es maintenant dans le répertoire `
 │   │       │   ├── cours
 │   │       │   ├── TD
 │   │       │   └── TP
-│   │       └── InitSystem
+│   │       └── algo
 │   │           ├── Exo1
 │   │           │   ├── Question1
 │   │           │   ├── Question2

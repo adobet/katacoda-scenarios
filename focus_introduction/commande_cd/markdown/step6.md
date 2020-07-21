@@ -33,7 +33,7 @@ C'est très bien !
 │   │       │   ├── cours
 │   │       │   ├── TD
 │   │       │   └── TP
-│   │       └── InitSystem
+│   │       └── algo
 │   │           ├── Exo1
 │   │           │   ├── Question1
 │   │           │   ├── Question2

@@ -11,21 +11,10 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre :
 
 ## cours 1 - Introduction
 
-* Un très courte introduction à bash -> à compléter
-  
-  Terminal, prompt, home, touches haut/bas
-  
-* Se repérer et se déplacer (cd et ls) -> à relire
-
-  arborescence, cd et ls sans option, `..`
-
-* La commande cat et TAB -> à relire
-
-  surtout pour manipuler ls, cd et cat
-
-* les chemins -> à compléter avec le dossier `.`
-
-  Dans ce scénario, j'ai 'cassé' la commande cd. On manipule donc que ls et cat
+* Un très courte introduction à bash (terminal, prompt, home, touches haut/bas)
+* Se repérer et se déplacer (cd et ls sans option + ..)
+* La commande cat et TAB (surtout pour manipuler ls, cd et cat)
+* les chemins - Dans ce scénario, j'ai 'cassé' la commande cd. On manipule donc que ls et cat
 
 * commande, arguments et options -> à relire
 

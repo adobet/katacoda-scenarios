@@ -38,7 +38,7 @@ N'oublie pas le raccourci que je t'ai montré ;)
 │   │       │   ├── cours
 │   │       │   ├── TD
 │   │       │   └── TP
-│   │       └── InitSystem
+│   │       └── algo
 │   │           ├── Exo1
 │   │           │   ├── Question1
 │   │           │   ├── Question2

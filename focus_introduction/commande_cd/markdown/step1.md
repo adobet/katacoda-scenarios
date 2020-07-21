@@ -1,6 +1,6 @@
 # Un petit rappel
 
-La partie bleue du prompt `/home/sasha/` est le chemin de l'endroit où tu te trouves. Pour le moment, tu es dans le dossier `sasha` qui est dans le dossier `home` qui se trouve à la racine.
+La partie bleue du prompt `/home/sasha/` est le chemin de l'endroit où tu te trouves. Pour le moment, tu es dans le dossier `sasha` qui est dans le dossier `home` qui se trouve à la racine `/`.
 
 
 # Comprendre une arborescence
@@ -37,7 +37,7 @@ Je te précise le dossier dans lequel tu te trouves.
 │   │       │   ├── cours
 │   │       │   ├── TD
 │   │       │   └── TP
-│   │       └── InitSystem
+│   │       └── algo
 │   │           ├── Exo1
 │   │           │   ├── Question1
 │   │           │   ├── Question2
@@ -55,9 +55,9 @@ Je te précise le dossier dans lequel tu te trouves.
 ``` 
 
 Tu es donc dans le dossier `/home/sasha/`.
-Dans l'arborescence, on peut voir que ce dossier contient 3 autres dossiers : `Desktop`, `Perso` et `Travail`.
+Dans l'arborescence, on peut voir que ce dossier contient trois autres dossiers : `Desktop`, `Perso` et `Travail`.
 
->> Combien de dossiers contient le dossier Travail ?<<
+>> D'après le schéma, combien de dossiers contient le dossier Travail ?<<
 ( ) 0
 ( ) 1
 (*) 2
