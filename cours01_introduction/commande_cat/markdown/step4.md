@@ -9,7 +9,7 @@ Je ne crois pas t'avoir parlé de la *complétion automatique*. C'est pourtant u
 # La complétion automatique
 
 
-Vérifie qu'il y a bien 5 dossiers dans le dossier courant (le dossier Dir64).
+Vérifie qu'il y a bien 5 dossiers dans le dossier courant (le dossier `Dir64`).
 
 Maintenant, fais maintenant exactement ce que je te dis :
 
@@ -22,7 +22,7 @@ Il est même plus fort que ça : il peut t'aider lorsqu'il y a plusieurs choix. 
 
 * va dans le dossier `/home/etudiant/Exo1/Dir64/`
 * tape `cd p`
-* appuie avec ton auriculaire de la main gauche (oui oui) sur la touche tabulation <kbd>⇥ Tab</kbd> de ton clavier une fois, puis une deuxième fois.
+* appuie avec ton auriculaire de la main gauche (oui toujours) sur la touche tabulation <kbd>⇥ Tab</kbd> de ton clavier une fois, puis une deuxième fois.
 
 Tu dois voir apparaître toutes les possibilités commençant par p.
 Si tu complètes `eb` et appuie à nouveau sur la touche tabulation <kbd>⇥ Tab</kbd> , alors le mot se complète tout seul !

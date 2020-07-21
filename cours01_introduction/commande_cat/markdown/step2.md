@@ -11,7 +11,11 @@ Bravo ! Normalement, tu te trouves maintenant dans le dossier `Exo1`. Sinon, il 
 
 
 Le dossier `Exo1` contient un fichier `README` dans lequel tu trouveras tes nouvelles instructions.
-Suis ces instructions, **puis** réponds aux questions suivantes :
+Consulte ce fichiers, puis suis ces instructions.
+
+**Remarque** J'espère que tu te souviens de l'utilisation des touches <kbd>↑</kbd> et <kbd>↓</kbd>. Elles te feront gagner du temps !
+
+Maintenant que tu as suivi tes nouvelles instructions, tu peux répondre aux deux questions suivantes :
 
 >> Quels sont les fichiers présents dans le répertoire dans lequel tu te trouves ? <<
 [ ] README
