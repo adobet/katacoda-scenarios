@@ -1,6 +1,8 @@
 # Bravo !!
 
-Tu dois avoir hâte d'apprendre à dompter le pingouin.
+Cette courte introduction est terminée.
+
+Tu dois avoir hâte de passer à la suite !
 
 ## Prochain scénario conseillé
 
