@@ -1,8 +1,8 @@
 function prompt {
-tpunix
+env > /tmp/.env_$(whoami)
 history -a
 }
 export PATH=$PATH:~/bin/
 shopt -s histappend
 PROMPT_COMMAND=prompt
-cd
+

@@ -48,7 +48,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * les variables
 
 ## cours 5
-* droits des dossiers - > à compléter
+* droits des dossiers
 * scripts : introduction
 * Entrée standard + ES from fichier
 * Un fichier csv c'est quoi ? -> à faire
@@ -56,12 +56,13 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 
 ## cours 6
 * inode
-* droits des utilisateur (sudo)
 * scripts : arguments
+
 * redirection SS -> ES (pipelines)
+* droits des utilisateur (sudo) TODO
 
 ## cours 7
-* compléments sur les droits chown + chgroup + adduser + addgroup + sudo (TODO ?)
+* compléments sur les droits chown + chgroup + adduser + addgroup (TODO ?)
 * gestion des paquets (à mettre plus tôt)
 * scripts : entrée standard (TODO)
 * scripts : conditions (TODO)

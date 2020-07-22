@@ -1,35 +1,41 @@
 {
-  "title": "Script et arguments",
-  "description": "Pour savoir comment écrire un script qui prend des arguments",
-  "difficulty": "Beginner",
-  "time": "30 minutes",
+  "title": "Compléments sur les droits",
+  "difficulty": "Débutant",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Introduction aux arguments.",
         "text": "/markdown/step1.md"
       },
       {
-        "title": "Échappement",
         "text": "/markdown/step2.md"
       },
       {
-        "title": "",
         "text": "/markdown/step3.md"
       },
       {
-        "title": "",
         "text": "/markdown/step4.md"
       },
       {
-        "title": "Conclusion",
         "text": "/markdown/step5.md"
+      },
+      {
+        "text": "/markdown/step6.md"
+      },
+      {
+        "text": "/markdown/step7.md"
+      },
+      {
+        "text": "/markdown/step8.md"
+      },
+      {
+        "text": "/markdown/step9.md"
       }
     ],
     "intro": {
-        "courseData": "courseBase.sh",
+        "courseData": "/assets/courseBase.sh",
         "text": "/markdown/intro.md",
-        "code": "code.sh"
+        "code": "/assets/code.sh"
     },
     "finish": {
       "text": "/markdown/finish.md"
@@ -48,12 +54,11 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
+    "uilayout": "terminal",
     "uimessage1": "Bienvenue !",
     "uieditorpath": "/home/sasha/"
   },
   "backend": {
     "imageid": "ubuntu"
-  },
-  "files":["exArgs.sh"]
+  }
 }

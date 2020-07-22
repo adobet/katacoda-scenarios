@@ -4,18 +4,23 @@
   "courses": [
     {
       "title": "Les Inode",
-      "description": " ...",
+      "description": "Pour comprendre un peu mieux le système de fichiers",
       "course_id": "inodes"
     },
     {
       "title": "Les arguments d'un script",
-      "description": "Passer des arguments à un scipt",
+      "description": "Passer des arguments à un script",
       "course_id": "arguments_script"
     },
     {
       "title": "Pipelines",
       "description": "Pour jouer au plombier",
-      "course_id": "pipelines"
+      "course_id": "redirections_pipeline"
+    },
+    {
+      "title": "Compléments sur les droits",
+      "description": "TODO",
+      "course_id": "droits_utilisateurs"
     }
   ]
 }
