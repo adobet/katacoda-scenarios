@@ -1,5 +1,5 @@
 {
-  "title": "M1101 - Cours n°7 - TODO",
+  "title": "M1101 - Cours n°7",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
       {
@@ -20,7 +20,7 @@
     {
       "title": "Compléments sur les droits",
       "description": "TODO",
-      "course_id": "droits_compléments"
+      "course_id": "droits_complements"
     }
   ]
 }

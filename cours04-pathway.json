@@ -1,5 +1,5 @@
 {
-  "title": "M1101 - Cours n°4 - ",
+  "title": "M1101 - Cours n°4",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Redirections vers un fichier",
       "description": "TODO",
-      "course_id": "redirection_to_file"
+      "course_id": "redirections_to_file"
      }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "title": "M1101 - Cours n°5 - Des notions plus avancées",
+  "title": "M1101 - Cours n°5",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
     {
@@ -20,12 +20,12 @@
     {
       "title": "Redirection à partie d'un fichier",
       "description": "TODO",
-      "course_id": "redirection_from_file"
+      "course_id": "redirections_from_file"
     },
     {
       "title": "Les expressions régulières",
       "description": "Introduction aux expressions régulières",
-      "course_id": "regex"
+      "course_id": "regexp"
     }
   ]
 }

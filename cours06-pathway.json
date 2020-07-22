@@ -1,5 +1,5 @@
 {
-  "title": "M1101 - Cours n°6 - TODO",
+  "title": "M1101 - Cours n°6",
   "description": "Cours M1101 du département informatique de l'IUT d'Orléans",
   "courses": [
     {
@@ -18,7 +18,7 @@
       "course_id": "redirections_pipeline"
     },
     {
-      "title": "Compléments sur les droits",
+      "title": "Compléments sur les droits des utilisateurs",
       "description": "TODO",
       "course_id": "droits_utilisateurs"
     }

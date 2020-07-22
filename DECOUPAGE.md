@@ -9,13 +9,13 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * 1 notion sur les scripts/processus
 * 1 notion un peu plus abstraite (inode ...)
 
-## Des notions pour lesquelles faire un scénario ?
-* les jockers ?
-* CTRL+L / CTRL+R / Click milieu de la souris ?
+## Des notions pour lesquelles faire un scénario ou ajouter une étape dans un scénario existant ?
+* la commande passwd
+* CTRL+L / CTRL+R / Click milieu de la souris
 * caractère d'échappement ?
-* scripts : arguments vs entrée standard (cours 08 ?)
-* Transformer un script en commande (cours 08 ?)
-* Comprendre/modifier mon bashrc (cours 08 ?)
+* scripts : arguments vs entrée standard 
+* Transformer un script en commande 
+* Comprendre/modifier mon bashrc 
 
 ## cours 1 - Introduction
 
