@@ -1,6 +1,6 @@
 # Proposition de découpage
 
-Un proposition de découpage pour une avancée progressive.
+Un proposition de découpage (mais ça ne me plait pas encore ...)
 
 J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec à chaque fois l'un des "themes" suivants :
 * 1 manipulation de fichiers
@@ -58,19 +58,19 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * inode
 * droits des utilisateur (sudo)
 * scripts : arguments
-* SS -> ES (pipelines)
+* redirection SS -> ES (pipelines)
 
 ## cours 7
-* modifier les droits chown + chgroup ?
-* Installation de programmes
-* scripts : entrée standard
-* scripts : conditions
+* compléments sur les droits chown + chgroup + adduser + addgroup + sudo (TODO ?)
+* gestion des paquets (à mettre plus tôt)
+* scripts : entrée standard (TODO)
+* scripts : conditions (TODO)
 
 ## cours 8
-* scripts : arguments vs entrée standard
-* Transformer un script en commande ??
-* scripts : boucles for
-* Comprendre/modifier mon bashrc -> ??
+* scripts : boucles for (TODO ?)
+* scripts : arguments vs entrée standard (TODO ?)
+* Transformer un script en commande (TODO ?)
+* Comprendre/modifier mon bashrc (TODO ?)
 
 ## cours 9
 * bash et python

@@ -8,9 +8,19 @@
       "course_id": "gestion_paquets"
     },
     {
-      "title": "Entrée standart ou argument ?",
-      "description": "...",
-      "course_id": "ES_ou_argument"
+      "title": "Scripts et Entrée Standart",
+      "description": "TODO",
+      "course_id": "scripts_ES"
+    },
+    {
+      "title": "Les conditions en bash",
+      "description": "TODO",
+      "course_id": "scripts_conditions"
+    },
+    {
+      "title": "Compléments sur les droits",
+      "description": "TODO",
+      "course_id": "droits_compléments"
     }
   ]
 }
