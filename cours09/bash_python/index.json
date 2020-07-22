@@ -6,19 +6,15 @@
   "details": {
     "steps": [
       {
-        "title": "Exécution d'un script python",
         "text": "/markdown/step1.md"
       },
       {
-        "title": "Les arguments en python",
         "text": "/markdown/step2.md"
       },
       {
-        "title": "Entrée standard en python",
         "text": "/markdown/step3.md"
       },
       {
-        "title": "Problèmes",
         "text": "/markdown/step4.md"
       }
     ],

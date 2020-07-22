@@ -2,7 +2,7 @@
 
 Crée et exécute le script python suivant :
 
-<pre class="file"  data-target="clipboard">#!/bin/bash
+<pre class="file"  data-target="clipboard">
 #!/usr/bin/python3
 # Auteur :  A. B.
 # Ce script vous dit bonjour

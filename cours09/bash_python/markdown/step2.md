@@ -1,11 +1,11 @@
 
-10.1.2. Arguments en python
+# Les arguments en python
 
 Créez et exécutez le script python suivant:
 
 
 
-<pre class="file"  data-target="clipboard">#!/bin/bash
+<pre class="file"  data-target="clipboard">
 #!/usr/bin/python3
 # Auteur :  A. B.
 # Ce script affiche ses arguments
@@ -25,7 +25,7 @@ print(sys.argv)
 ( ) Le premier argument passé au script
 
 
-À toi de jouer :
+## À toi de jouer :
 
 * Modifie le script pour qu'il affiche : « Le premier argument est :  » suivi du premier argument.
 
