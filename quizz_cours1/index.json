@@ -23,9 +23,9 @@
       }
     ],
     "intro": {
-        "courseData": "courseBase.sh",
+        "courseData": "assets/courseBase.sh",
         "text": "/markdown/intro.md",
-        "code": "code.sh"
+        "code": "assets/code.sh"
     },
     "finish": {
       "text": "/markdown/finish.md"
