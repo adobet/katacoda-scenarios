@@ -19,32 +19,29 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * les chemins suite - avec la commande cd, la commande tree, et le dossier `.` 
 
 
-## cours 2 - les bases
+## cours 2
 
 * nano -> à relire. Ajouter la commande touch ici ?
-* la commande ls (-alh)
+* la commande ls (-alh) TODO
   Commencer à parler des métadonnées
 * la commande mkdir
 * la commande rm (-r)
 * la commande du (-sh)
-* CTRL+L / CTRL+R / Click milieu de la souris ?
-* caractère d'échappement ?
+
 
 
 ## cours 3
-* droits des fichiers - > à compléter
+* droits des fichiers
 * Le man 
-* commande cp
+* commande cp (TODO)
 * processus - introduction
-* la commande wc (sans pipeline)
-* joker ?
+* statut des sorties
 
 ## cours 4
 * modifier les droits chmod + octal
-* commande mv
-* Sorties (SS et SE) + redirections vers un fichier
-* la commande grep (sans pipeline)
-* regex (debut)
+* commande mv (TODO)
+* redirections vers un fichier
+* les commandes grep et wc (sans pipeline, une très courte inroduction)
 * les variables
 
 ## cours 5
@@ -52,6 +49,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * scripts : introduction
 * Redirections ES from fichier
 * la commande cut (sans pipeline)
+* regex (à découper ?)
 
 ## cours 6
 * inode
@@ -78,4 +76,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * scripts : fonctions (TODO ?)
 
 
-
+## A ajouter quelque part ?
+* les jockers ?
+* CTRL+L / CTRL+R / Click milieu de la souris ?
+* caractère d'échappement ?

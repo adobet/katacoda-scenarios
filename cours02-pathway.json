@@ -28,9 +28,9 @@
       "course_id": "processus"
     },
     {
-      "title": "Introduction aux expressions régulières",
-      "description": "Pour découvrir qce qu'est une xpression régulière",
-      "course_id": "regexp"
+      "title": "Focus sur la commande du",
+      "description": "Pour découvrir la commande du",
+      "course_id": "commande_du"
     }
   ]
 }
