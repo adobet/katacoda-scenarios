@@ -2,11 +2,11 @@
 
 Un proposition de découpage pour une avancée progressive.
 
-J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios
+J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec à chaque fois l'un des "themes" suivants :
 * 1 manipulation de fichiers
 * 1 recherche/aide
 * 1 notion sur les droits
-* 1 notion sur les scripts
+* 1 notion sur les scripts/processus
 * 1 notion un peu plus abstraite (inode ...)
 
 ## cours 1 - Introduction
@@ -28,7 +28,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios
 * la commande rm (-r)
 * la commande du (-sh)
 * CTRL+L / CTRL+R / Click milieu de la souris ?
-* caractère d'échappement
+* caractère d'échappement ?
 
 
 ## cours 3

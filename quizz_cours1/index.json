@@ -10,12 +10,10 @@
         "verify": "/verify/exo1.sh"
       },
       {
-        "text": "/markdown/step2.md",
-        "verify": "/verify/exo2.sh"
+        "text": "/markdown/step2.md"
       },
       {
-        "text": "/markdown/step3.md",
-        "verify": "/verify/exo3.sh"
+        "text": "/markdown/step3.md"
       },
       {
         "text": "/markdown/step4.md"
@@ -41,17 +39,13 @@
             {
                 "file": "home.tar.bz2",
                 "target": "/tmp"
-            },
-            {
-                "file": "creationdeshome",
-                "target": "/tmp"
             }
         ]
     }
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "Encore un peu de patience ... je construis les home !",
+    "uimessage1": "Bonjour !",
     "uieditorpath": "/home/sasha/"
   },
   "backend": {

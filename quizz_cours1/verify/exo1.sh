@@ -1,5 +1,5 @@
 source /tmp/.env_sasha
-if [ "$PWD" == "/home/sasha/Exo1/Dir64/Swwdfhjoillk/Repwffcymcohi" ]
+if [ "$PWD" == "/home/sasha/Exo1 ]
 then
     echo done
 fi
