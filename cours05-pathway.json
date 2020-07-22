@@ -19,8 +19,8 @@
     },
     {
       "title": "Redirection à partie d'un fichier",
-      "description": "...",
-      "course_id": "entree_from_fichier"
+      "description": "TODO",
+      "course_id": "redirection_from_file"
     }
   ]
 }

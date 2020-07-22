@@ -50,14 +50,12 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 ## cours 5
 * droits des dossiers
 * scripts : introduction
-* Entrée standard + ES from fichier
-* Un fichier csv c'est quoi ? -> à faire
+* Redirections ES from fichier
 * la commande cut (sans pipeline)
 
 ## cours 6
 * inode
 * scripts : arguments
-
 * redirection SS -> ES (pipelines)
 * droits des utilisateur (sudo) TODO
 
