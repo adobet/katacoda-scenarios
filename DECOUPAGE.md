@@ -74,9 +74,9 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 
 ## cours 9
 * bash et python
-* la commande find ?
-* scripts : boucles while
-* scripts : fonctions ?
+* la commande find (TODO ?)
+* scripts : boucles while (TODO ?)
+* scripts : fonctions (TODO ?)
 
 
 

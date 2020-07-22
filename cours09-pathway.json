@@ -9,8 +9,18 @@
     },
     {
       "title": "Focus sur la commande find",
-      "description": "Pour découvrir quelques potentialités de la commande find",
+      "description": "TODO",
       "course_id": "commande_find"
+    },
+    {
+      "title": "Scripts et fonctions",
+      "description": "TODO",
+      "course_id": "scripts_fonctions"
+    },
+    {
+      "title": "Scripts et boucle while",
+      "description": "TODO",
+      "course_id": "scripts_while"
     }
   ]
 }
