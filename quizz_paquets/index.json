@@ -1,35 +1,15 @@
 {
-  "title": "Manipuler les fichiers avec Bash: compléments",
-  "description": "Découverte du terminal",
+  "title": "Quizz en vrac",
+  "description": "En chantier",
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
     "steps": [
       {
-        "title": "./ et ../",
         "text": "/markdown/step1.md"
       },
       {
-        "title": "Arguments et options",
         "text": "/markdown/step2.md"
-      },
-      {
-        "title": "Options",
-        "text": "/markdown/step3.md"
-      },
-      {
-        "title": "Quand renommer c'est déplacer",
-        "text": "/markdown/step4.md"
-      },
-      {
-        "title": "Jockers",
-        "text": "/markdown/step5.md"
-      },
-      {
-        "title": "Conclusion",
-        "text": "/markdown/step6.md",
-        "verify": "/verify/exo5.sh"
-
       }
     ],
     "intro": {
@@ -56,7 +36,7 @@
   "environment": {
     "uilayout": "terminal",
     "uimessage1": "Bienvenue !",
-    "uieditorpath": "/home/etudiant/"
+    "uieditorpath": "/home/sasha/"
   },
   "backend": {
     "imageid": "ubuntu"

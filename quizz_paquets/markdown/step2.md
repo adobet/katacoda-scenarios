@@ -1,7 +1,4 @@
-
-
-
-# Quizz conclusif
+# Quizz
 
 >> Mettre un / à la fin des noms de répertoires, comme par exemple dans `cd repertoire/` <<
 

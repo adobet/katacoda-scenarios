@@ -9,6 +9,14 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * 1 notion sur les scripts/processus
 * 1 notion un peu plus abstraite (inode ...)
 
+## Des notions pour lesquelles faire un scénario ?
+* les jockers ?
+* CTRL+L / CTRL+R / Click milieu de la souris ?
+* caractère d'échappement ?
+* scripts : arguments vs entrée standard (cours 08 ?)
+* Transformer un script en commande (cours 08 ?)
+* Comprendre/modifier mon bashrc (cours 08 ?)
+
 ## cours 1 - Introduction
 
 * Un très courte introduction à bash (terminal, prompt, home, touches haut/bas)
@@ -27,7 +35,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * la commande mkdir
 * la commande rm (-r)
 * la commande du (-sh)
-
+* les jokers ??
 
 
 ## cours 3
@@ -65,9 +73,7 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 
 ## cours 8
 * scripts : boucles for (TODO ?)
-* scripts : arguments vs entrée standard (TODO ?)
-* Transformer un script en commande (TODO ?)
-* Comprendre/modifier mon bashrc (TODO ?)
+
 
 ## cours 9
 * bash et python
@@ -76,7 +82,4 @@ J'ai essayé pour chaque cours (sauf l'intro) de mettre 4 à 6 scénarios avec �
 * scripts : fonctions (TODO ?)
 
 
-## A ajouter quelque part ?
-* les jockers ?
-* CTRL+L / CTRL+R / Click milieu de la souris ?
-* caractère d'échappement ?
+

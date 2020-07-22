@@ -23,14 +23,14 @@
       "course_id": "commande_rm"
     },
     {
-      "title": "Les processus",
-      "description": "Pour découvrir ce qu'est un processus",
-      "course_id": "processus"
-    },
-    {
       "title": "Focus sur la commande du",
       "description": "Pour découvrir la commande du",
       "course_id": "commande_du"
+    },
+    {    
+      "title": "Les jokers",
+      "description": "Les jokers",
+      "course_id": "jokers"
     }
   ]
 }
